@@ -281,7 +281,7 @@ V3=q3*x(1);
 V4=q4*x(1);
 V5=q5*x(1);
  
-fprintf('---------MASS BALANCE-----RXR VOLUME--------------\n')
+fprintf('---------MASS BALANCE-----RXR VOLUME---------------\n')
 fprintf('RXR   in               out               delta            RXRvolume\n')
 fprintf(' 1    %f    %f     %f lb/h    %f m3\n',stream0+stream0m,stream1,-stream0-stream0m+stream1,V1)
 fprintf(' 2    %f    %f     %f lb/h    %f m3\n',stream1+stream1m,stream2,-stream1-stream1m+stream2,V2)
