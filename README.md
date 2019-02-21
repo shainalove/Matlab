@@ -1,9 +1,5 @@
 # Matlab
 
-These are practical examples of how I used MATLAB during my engineering undergrad. It might not be a programming masterpiece, but it got the job done.
-
-I should have used object oriented programming instead of procedural, in case you are wondering. I wasn't aware of it at the time.
-
-
+This is a practical example of how I used MATLAB during my engineering undergrad. At the time, I was not aware of object-oriented programming, but now I know better. 
 
 -Stephanie
